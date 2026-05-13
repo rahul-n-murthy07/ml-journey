@@ -9,3 +9,8 @@
 
 ## What I'm building
 A growing portfolio of ML concepts, each with a small project.
+
+## Next up
+- Day 5: Pandas — Handling missing data, Group by
+- Day 6: Apply Pandas to Titanic dataset
+- Day 7 (Sunday): Project polish + first LinkedIn post
